@@ -11,15 +11,17 @@ Donde encontrarás todo lo necesario para desarrollar un Sistema de Recomendaci�
 📈 Proyecto de Data Analytics
 Este repositorio contiene un análisis exhaustivo del comportamiento del sector de telecomunicaciones a nivel nacional, utilizando técnicas de análisis de datos. El objetivo principal de este proyecto es proporcionar a la empresa prestadora de servicios de telecomunicaciones una visión clara basada en datos sobre el acceso a internet y otros servicios de comunicación. A través de este análisis, se busca identificar oportunidades de crecimiento, mejorar la calidad de los servicios y ofrecer soluciones personalizadas a los clientes, respaldadas por insights obtenidos mediante el análisis exploratorio de datos (EDA) y visualización.
 
-🛠️ Habilidades
-🐍 Python
-🗄️ SQL
-📊 Power BI
-📉 Excel
-📊 Análisis de Datos
-🤖 Machine Learning
-📈 Visualización de Datos
+## 🛠️ Habilidades  
+- 🐍 Python  
+- 🗄️ SQL  
+- 📊 Power BI  
+- 📉 Excel  
+- 📊 Análisis de Datos  
+- 🤖 Machine Learning  
+- 📈 Visualización de Datos  
 
-🌐 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelyn-delvalle-p%C3%A9rez/)
-✉️ evelynperez4@gmail.com
+
+## 🌐 Conectemos  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelyn-delvalle-p%C3%A9rez/)  
+- ✉️ evelynperez4@gmail.com  
+
