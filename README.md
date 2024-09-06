@@ -5,7 +5,7 @@
 Mi carrera ha estado centrada en la gestión de proyectos y análisis de datos, pero siempre estoy aprendiendo nuevas habilidades, especialmente en el área de ciencia de datos. 
 
 🚀 Proyectos Destacados
-📊Este proyecto es un viaje completo a través del Machine Learning y el análisis de datos.
+## 📊Sistema de Recomendacion. Este proyecto es un viaje completo a través del Machine Learning y el análisis de datos.
 Donde encontrarás todo lo necesario para desarrollar un Sistema de Recomendación de Películas. Desde la limpieza y transformación de datos hasta la implementación de un modelo de recomendación y el desarrollo de una API que puedes consultar desde cualquier lugar. 
 
 📈 Proyecto de Data Analytics
