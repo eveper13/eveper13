@@ -22,7 +22,6 @@ Puedes ver todos mis proyectos en GitHub [aquí](https://github.com/eveper13?tab
 
 ## 🛠️ Habilidades  
 - 🗄️ SQL  
-- 📊 Power BI  
 - 📊 Análisis de Datos  
 - 🤖 Machine Learning  
 - 📈 Visualización de Datos
@@ -37,7 +36,9 @@ Puedes ver todos mis proyectos en GitHub [aquí](https://github.com/eveper13?tab
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 30px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 30px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 30px;" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="35" /></a>   
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 30px;" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="35" /></a>  
+<a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 30px;" src="https://www.insisoc.uva.es/wp-content/uploads/2019/05/Logo-cuadrado-con-letra-Power-BI.png" alt="Power BI" height="35" />
+</a>
+
 </div>  
 
 <br/>  
