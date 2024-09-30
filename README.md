@@ -29,19 +29,16 @@ Puedes ver todos mis proyectos en GitHub [aquí](https://github.com/eveper13?tab
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="25" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>   
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
+<a href="https://scikit-learn.org/" target="_blank"><img style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="25" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>   
+<a href="https://www.tensorflow.org/" target="_blank"><img style="padding: 10px;" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
 </div>  
-
-<br/>  
-
 
 <br/>  
 
@@ -49,7 +46,6 @@ Puedes ver todos mis proyectos en GitHub [aquí](https://github.com/eveper13?tab
   
 
 <br/>  
-
 ## 🌐 Conectemos
 - ✉️ evelynperez4@gmail.com  
   
