@@ -46,8 +46,9 @@ Puedes ver todos mis proyectos en GitHub [aquí](https://github.com/eveper13?tab
 ![Profile views counter](https://komarev.com/ghpvc/?username=eveper13&&style=flat-square)  
   
 
-<br/>  
-## 🌐 Conectemos
+<br/> 
+
+🌐 Conectemos
 
 - ✉️ evelynperez4@gmail.com  
   
