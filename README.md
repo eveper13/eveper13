@@ -9,13 +9,14 @@ Mi carrera ha estado centrada en la gestión de proyectos y análisis de datos, 
 Puedes ver todos mis proyectos en GitHub [aquí](https://github.com/eveper13?tab=repositories).
 
 ## 🛠️ Habilidades  
-- 🐍 Python  
+- [🐍 ](https://camo.githubusercontent.com/6ac3ab6a03ee3f330d350ae7a7f34b91de4add8b676fdda033814159f5e36cdc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3334366539653f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)Python  
 - 🗄️ SQL  
 - 📊 Power BI  
 - 📊 Análisis de Datos  
 - 🤖 Machine Learning  
 - 📈 Visualización de Datos
--
+- ![image](https://github.com/user-attachments/assets/02dfc767-97d8-4d3a-84e1-40af0772da68) Google Cloud
+
 
 
 ## 🌐 Conectemos  
