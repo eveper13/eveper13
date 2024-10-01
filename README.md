@@ -26,7 +26,7 @@ Puedes ver todos mis proyectos en GitHub [aquí](https://github.com/eveper13?tab
 - 🤖 Machine Learning  
 - 📈 Visualización de Datos
 
-## Languages and Tools  
+## Stack Tecnologico
 <div align="center">  
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="35" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 30px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" /></a>  
